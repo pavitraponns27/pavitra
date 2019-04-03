@@ -1,8 +1,8 @@
-n=int(input("enter the base:"));
-k=int(input("enter the exponentiaL:"));
-result=1;
+n=int(input("enter the base:"))
+k=int(input("enter the exponentiaL:"))
+result=1
 while(k!=0):
-    result*=n;
-    k=k-1;
-print(result);    
+    result*=n
+    k=k-1
+print(result)   
     
