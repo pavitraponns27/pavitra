@@ -1,5 +1,5 @@
-char=input(" ");
+char=input(" ")
 if(char.isalpha()):
-    print("alphabet");
+    print("alphabet")
 else:
-    print("not");
+    print("not")
