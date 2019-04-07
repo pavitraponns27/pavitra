@@ -1,4 +1,4 @@
-nterms = 10
+nterms=int(input("enter the no of terms"))
 n1 = 0
 n2 = 1
 count = 0
@@ -15,3 +15,21 @@ else:
        n1 = n2
        n2 = nth
        count += 1
+
+
+
+
+
+
+ 
+
+
+  
+   
+
+      
+
+
+
+
+      
