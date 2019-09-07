@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int n,a[45],i,k,j,temp,cnt=0;
+int n,a[45],i,k,j,temp,l,cnt=0;
 scanf("%d",&n);
 scanf("%d",&k);
 for(i=0;i<n;i++)
@@ -20,5 +20,6 @@ a[j]=temp;
 }
 }
 }
-printf("%d",a[k]);
+l=n-k;
+printf("%d",a[l]);
 }
